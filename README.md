@@ -10,9 +10,13 @@ The **delegatorFactory** contract is based on Synthetix Liquidity Rewards contra
 1. Clone the Repo
 2. Install [dappTools](https://github.com/dapphub/dapptools#installation).
 3. Install dependencies `yarn install`
-4. Execute "dapp install ds-test"
-5. Execute "dapp install OpenZeppelin/zeppelin-solidity"
-6. Execute "dapp install  OpenZeppelin/openzeppelin-contracts"
+4. Delete folders 
+	- lib/openzeppelin-contracts
+	- lib/openzeppelin-solidity
+	- lib/ds-test
+6. Execute "dapp install ds-test"
+7. Execute "dapp install OpenZeppelin/zeppelin-solidity"
+8. Execute "dapp install  OpenZeppelin/openzeppelin-contracts"
 
 ### How to test
 
